@@ -1,13 +1,9 @@
 - 👋 Hi, I’m @wyldcrd
-- 👀 I’m interested in music production using LMMS
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate with nobody
-- 📫 How to reach me: don't
+- 👀 I’m interested in music production 
+- 💞️ Will collaborate with anyone
+- 📫 How to reach me: message me through GitHub?
 
-I can be used for grammar and spellchecking
-
-Modding is fun, until it isnt,
-Update cutefish os please
+An imagination machine made of flesh and blood
 
 <!---
 wyldcrd/wyldcrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
