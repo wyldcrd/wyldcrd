@@ -1,17 +1,20 @@
 Hey! Im [REDACTED] aka wyldcrd. I know absolutely nothing about coding.
+
 **but here are a few things I know:**
 
-·Music theory
+·Music theory 🎵
 
-·Guitar
+·Guitar 🎸
 
-·Mixed percussion: cymbals, marching perc, pitched mallet, and drumkit.
+·Mixed percussion: cymbals, marching perc, pitched mallet, and drumkit. 🥁
 
-·Piano
+·Piano 🎹
 
-·The entire Avenged Sevenfold discography
+·The entire Avenged Sevenfold discography 💀
 
-·Html ig
+·Html ig 🙃
+
+
 <!---
 wyldcrd/wyldcrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
